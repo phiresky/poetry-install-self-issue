@@ -4,6 +4,11 @@ version = "0.1.0"
 description = ""
 authors = ["Robin Ruede <robin.ruede@philips.com>"]
 
+packages = [
+	{ include = "a" },
+	{ include = "c" },
+]
+
 [tool.poetry.dependencies]
 python = "^3.6"
 numpy = "^1.15"
