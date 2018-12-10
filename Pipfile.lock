@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "276240d3c24b831403ca5fa2494759123ac3c7b6e100b6476bda55fc2dc2d8d9"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cooli": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
